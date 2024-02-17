@@ -1,0 +1,14 @@
+[
+    {
+        "CategoryId" : 1,
+        "name" : "",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "",
+        "Title" : "",
+        "price" : 5
+
+    }
+]
