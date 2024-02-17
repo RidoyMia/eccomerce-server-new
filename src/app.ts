@@ -1,13 +1,14 @@
 import express, { Application,Request,Response,NextFunction, request, response } from "express"
 import cors from "cors"
 import { StatusCodes } from "http-status-codes"
+import Userrouter from "./app/module/User/User.route"
 const app:Application = express()
 
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({extended : true}))
 
-
+app.use("/api/v1/user", Userrouter)
 
 app.get('/',(req:Request,res:Response)=>{
  res.status(StatusCodes.OK).send({
