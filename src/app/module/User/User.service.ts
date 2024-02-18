@@ -10,7 +10,12 @@ const loginUserService = async(email : string) : Promise<Iuser | any> =>{
     return result;
 }
 
+const getAlluserService = async() : Promise<Iuser | any> =>{
+  const result = await userModel.find();
+  return result;
+}
+
 
 export const userServices = {
-    createUserService,loginUserService
+    createUserService,loginUserService,getAlluserService
 }

@@ -15,10 +15,11 @@ const userSchema = new Schema<Iuser>({
     role : {
         type : String,
         enum : ['user','seller' ,'admin'],
-    required : true
+         required : true
     },
     phone : {
-        type :String
+        type :String,
+        unique : true
     },
     district : {
         type : String,

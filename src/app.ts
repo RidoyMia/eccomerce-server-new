@@ -2,6 +2,7 @@ import express, { Application,Request,Response,NextFunction, request, response }
 import cors from "cors"
 import { StatusCodes } from "http-status-codes"
 import Userrouter from "./app/module/User/User.route"
+import { GlobalError } from "./globalError/GlobalError"
 const app:Application = express()
 
 app.use(cors())
@@ -16,6 +17,8 @@ app.get('/',(req:Request,res:Response)=>{
     result : 'this is main root of sharing data'
  })
 })
+
+app.use(GlobalError)
 
 app.use((req:Request,res:Response,next:NextFunction)=>{
     res.status(StatusCodes.NOT_FOUND).send({
