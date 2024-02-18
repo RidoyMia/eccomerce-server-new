@@ -24,12 +24,15 @@ const loginUserController = async(req:Request,res:Response,next:NextFunction): P
         const result = await userServices.loginUserService(email);
         const userinfo = {email : result[0].email, role : result[0].role};
        
-        // const accesstoken = await jwt.sign(userinfo, config.ACCESSTOKEN as string , {expiresIn : config.EXPIRE})
-        console.log(config.accesstoken,'token')
-        // res.status(StatusCodes.OK).send({
-        //     data : true,
-        //     result
-        // })
+        const accesstoken = await jwt.sign(userinfo, config.accesstoken as string , {expiresIn : config.expire})
+       
+      
+       
+        res.status(StatusCodes.OK).send({
+            data : true,
+            result,
+            accesstoken
+        })
         
     } catch (error) {
         next(error)
