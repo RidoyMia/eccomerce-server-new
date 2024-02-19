@@ -20,7 +20,9 @@ const config_1 = require("../../../../config");
 const createUserController = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const userData = req.body;
+        console.log(userData, 'nowwww');
         const result = yield User_service_1.userServices.createUserService(userData);
+        console.log(result, 'rresult');
         res.status(http_status_codes_1.StatusCodes.OK).send({
             data: true,
             result

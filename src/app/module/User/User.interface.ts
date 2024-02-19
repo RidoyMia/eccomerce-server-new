@@ -5,8 +5,8 @@ export interface Iuser {
     image : string,
     district? : string,
     sub_district? : string,
-    village? : string,
-    phone? : string
+    village? : string
+ 
 
 
 }

@@ -21,11 +21,7 @@ const userSchema = new Schema<Iuser>({
         enum : ['user','seller' ,'admin'],
          required : true
     },
-    phone : {
-        type :String,
-     
-       unique : false
-    },
+  
     district : {
         type : String,
         required : false

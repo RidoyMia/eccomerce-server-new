@@ -12,6 +12,11 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.userServices = void 0;
 const User_model_1 = require("./User.model");
 const createUserService = (UserData) => __awaiter(void 0, void 0, void 0, function* () {
+    var _a;
+    const getResult = yield User_model_1.userModel.find({ email: UserData === null || UserData === void 0 ? void 0 : UserData.email });
+    if ((_a = getResult[0]) === null || _a === void 0 ? void 0 : _a.name) {
+        return getResult[0];
+    }
     const result = yield User_model_1.userModel.create(UserData);
     return result;
 });

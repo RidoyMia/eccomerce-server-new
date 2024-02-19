@@ -30,6 +30,9 @@ const userSchema = new mongoose_1.Schema({
         type: String,
         required: true
     },
+    image: {
+        type: String,
+    },
     email: {
         type: String,
         required: true,
@@ -42,7 +45,7 @@ const userSchema = new mongoose_1.Schema({
     },
     phone: {
         type: String,
-        unique: true
+        unique: false
     },
     district: {
         type: String,
