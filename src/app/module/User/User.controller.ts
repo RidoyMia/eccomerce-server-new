@@ -7,7 +7,9 @@ import { config } from "../../../../config";
 const createUserController = async(req:Request,res:Response,next:NextFunction) : Promise<Iuser | any> =>{
     try {
         const userData:Iuser = req.body;
+        console.log(userData,'nowwww')
         const result = await userServices.createUserService(userData);
+        console.log(result,'rresult')
         res.status(StatusCodes.OK).send({
             data : true,
             result

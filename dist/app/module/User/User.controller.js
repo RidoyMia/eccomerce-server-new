@@ -8,10 +8,14 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.userController = void 0;
 const User_service_1 = require("./User.service");
 const http_status_codes_1 = require("http-status-codes");
+const jsonwebtoken_1 = __importDefault(require("jsonwebtoken"));
 const config_1 = require("../../../../config");
 const createUserController = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
@@ -31,12 +35,12 @@ const loginUserController = (req, res, next) => __awaiter(void 0, void 0, void 0
         const email = req.params.email;
         const result = yield User_service_1.userServices.loginUserService(email);
         const userinfo = { email: result[0].email, role: result[0].role };
-        // const accesstoken = await jwt.sign(userinfo, config.ACCESSTOKEN as string , {expiresIn : config.EXPIRE})
-        console.log(config_1.config.accesstoken, 'token');
-        // res.status(StatusCodes.OK).send({
-        //     data : true,
-        //     result
-        // })
+        const accesstoken = yield jsonwebtoken_1.default.sign(userinfo, config_1.config.accesstoken, { expiresIn: config_1.config.expire });
+        res.status(http_status_codes_1.StatusCodes.OK).send({
+            data: true,
+            result,
+            accesstoken
+        });
     }
     catch (error) {
         next(error);
