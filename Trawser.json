@@ -1,0 +1,133 @@
+[
+    {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Addidas",
+        "Title" : " Sporting Trawser 10 Unleashed",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/RZrrV8Jt/61lp-E3s-Ubz-S.jpg"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Nikee",
+        "Title" : "Dominating Sports Data with Sporting Trawser 10",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/g2RWVdb4/6ec23672-795b-4e32-996d-082ac103843b1622109086734-Jeans-Roadster-Women-Tops-Harvard-Women-Tshirts-HRXby-Hrith.jpg"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Puma",
+        "Title" : " Unveiling Sporting Trawser 10",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/257Ntw6Z/99aaa-512.jpg"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Addidas",
+        "Title" : "Harnessing Sporting Trawser 10",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/43Zrp95N/Cricket-Pants-Front-1000x1000.png"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Panda",
+        "Title" : " Mastering Data with Trawser ",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/L57cPQyr/CRK-PT14-1.jpg"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Sports",
+        "Title" : "Exploring Sporting Trawser",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/zXHZN5v5/CRK-PT20-1.jpg"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Addidas",
+        "Title" : "Conquering Web Data for Sports Analytics",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/c1byP6sX/P1110357.jpg"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Puma",
+        "Title" : " Elevating Insights with Sporting Trawser",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/Fz7t7Xxy/Pro-Sublimated-Pants-300x300.png"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Nikee",
+        "Title" : "Advancing Sports Analysis with Trawser ",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/SsZFSxcQ/thumb-360-0-0-0-auto.jpg"
+
+
+    }, {
+        "CategoryId" : 1,
+        "name" : "Trawser",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Skitee",
+        "Title" : "Unlocking Sporting Trawser 10's Potential",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/K8t6KNtH/wccc-men-s-cricket-trousers-navy-front.jpg"
+
+
+    }
+]

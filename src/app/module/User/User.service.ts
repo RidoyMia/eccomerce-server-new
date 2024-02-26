@@ -11,6 +11,7 @@ const createUserService = async(UserData : Iuser):Promise<Iuser | any> =>{
 }
 const loginUserService = async(email : string) : Promise<Iuser | any> =>{
     const result = await userModel.find({email : email});
+    console.log(result,'resulllllll')
     return result;
 }
 
@@ -18,8 +19,12 @@ const getAlluserService = async() : Promise<Iuser | any> =>{
   const result = await userModel.find();
   return result;
 }
+const getSingleUser = async(email : string) : Promise<Iuser | any> =>{
+  const result = await userModel.find({email : email});
+  return result;
+}
 
 
 export const userServices = {
-    createUserService,loginUserService,getAlluserService
+    createUserService,loginUserService,getAlluserService,getSingleUser
 }

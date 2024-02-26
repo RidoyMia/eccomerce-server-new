@@ -1,0 +1,113 @@
+[
+    {
+        "CategoryId" : 5,
+        "name" : "Shoe",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Apex",
+        "Title" : "Apex Shoes: Analyzing Footwear Trends in the Bangladeshi Market",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/L4V1mKqq/png-clipart-adidas-shoe-sneakers-women-shoes-purple-white-thumbnail.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Bata",
+    "Title" : "Bata Bangladesh: A Data-Driven Look into Bangladeshi Footwear Preferences",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/jddJ5gNM/png-clipart-blue-shoe-sneakers-leather-navy-blue-baby-shoes-blue-white-thumbnail.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Titas",
+    "Title" : "Titas Shoes: Exploring Local Craftsmanship in Bangladeshi Footwear Industry",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/5y9jXyHX/png-clipart-dress-shoe-sneakers-nike-bullock-carved-leather-shoes-men-s-shoes-retro-leather-thumbnai.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Pebble",
+    "Title" : "Pebble Shoes: Navigating Consumer Choices in Bangladeshi Footwear Market",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/QM5FPRGd/png-clipart-oxford-shoe-footwear-brogue-shoe-shoemaking-men-shoes-leather-fashion-thumbnail.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Fortuna",
+    "Title" : "Fortuna Shoes: Assessing Quality and Durability in Bangladeshi Footwear Brands",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/W3whpg4R/png-clipart-pair-of-black-leather-dress-shoes-art-dress-shoe-black-men-shoes-leather-fashion-thumbna.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Pavers England",
+    "Title" : "Pavers England Bangladesh: Analyzing International Influence on Local Shoe Trends",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/ydHDzvsX/png-clipart-pair-of-white-and-red-running-shoes-illustration-shoe-running-sneakers-clothing-nike-run.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Lucy & Luke",
+    "Title" : "Lucy & Luke Shoes: Investigating Children's Footwear Trends in Bangladesh",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/6p82V8MR/png-clipart-shoe-polish-leather-men-s-shoes-brown-photography-thumbnail.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Woodland",
+    "Title" : "Woodland Shoes: Understanding Outdoor Footwear Preferences in Bangladesh",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/wjntw9rr/png-clipart-shoe-shoes-brown-leather-thumbnail.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Cats Eye",
+    "Title" : "Cats Eye Shoes: Mapping Fashion Trends in Bangladeshi Footwear Industry",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/sxnx7zSw/png-clipart-sneakers-basketball-shoe-sportswear-nike-shoe-outdoor-shoe-running-thumbnail.png"
+}, {
+    "CategoryId" : 5,
+    "name" : "Shoe",
+    "oldPrice" : 4,
+    "discount" : 1,
+    "sellerid" : 4,
+    "details" :"",
+    "brand" : "Apex",
+    "Title" : "Apex Footwear Ltd.: A Realistic Analysis of Market Position and Competitiveness",
+    "price" : 5,
+    "image" : "https://i.postimg.cc/RVsJn7L4/png-clipart-sneakers-graphy-shoe-big-footwear-sport-shoes-purple-violet-thumbnail.png"
+}
+]

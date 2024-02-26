@@ -1,0 +1,133 @@
+[
+    {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Rang",
+        "Title" : "Exploring Traditional Bangladeshi Designs",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/X70Qz0Rp/png-clipart-gagra-choli-lehenga-sari-clothing-bridal-lehenga-fashion-wedding-dress-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Deshi Dosh",
+        "Title" : "Deshi Dosh Lehengas: Analyzing Trends in Bangladeshi Ethnic Wear Market",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/br1Lw6ty/png-clipart-bride-makeover-clothing-wedding-dress-hairstyle-bride-wedding-cosmetics-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Aarong",
+        "Title" : "Aarong Lehengas: Assessing Craftsmanship and Style in Bangladeshi Ethnic Fashion",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/HsH9t9MM/png-clipart-gagra-choli-lehenga-wedding-dress-suit-katrina-kaif-magenta-fashion-model-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Kay Kraft",
+        "Title" : "Kay Kraft Lehengas: Understanding Cultural Influences in Bangladeshi Bridal Fashion",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/FHTpzk7L/png-clipart-gown-wedding-dress-sleeve-lehenga-dress-wedding-evening-gown-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Bibiana",
+        "Title" : "Bibiana Lehengas: Mapping Consumer Preferences in Bangladeshi Wedding Attire",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/yYPXp3hb/png-clipart-kriti-kharbanda-choli-lehenga-india-bollywood-best-price-modern-wholesale-fashion-india.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Sadakalo",
+        "Title" : "Sadakalo Lehengas: Investigating Modern Interpretations of Bangladeshi Lehenga Designs",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/rwVgqNFT/png-clipart-lehenga-wedding-dress-choli-clothing-design-bollywood-designer-suits-women-wedding-fashi.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Anjans",
+        "Title" : " Anjans Lehengas: A Realistic Analysis of Quality and Craftsmanship",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/W4tnkpkf/png-clipart-pink-m-fashion-design-silk-dress-design-fashion-magenta-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Mayasir",
+        "Title" : "Mayasir Lehengas: Navigating Price and Value in Bangladeshi Ethnic Fashion ",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/B6H2TjQN/png-clipart-wedding-dress-pakistani-clothing-bride-lehenga-dress-wedding-fashion-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Banglar Mela",
+        "Title" : "Banglar Mela Lehengas: Exploring Authenticity in Bangladeshi Traditional Attire",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/cLL7p1X4/png-clipart-wedding-sari-lehenga-choli-shalwar-kameez-dress-purple-violet-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : 4,
+        "name" : "Lehenga",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Ratul",
+        "Title" : "Ratul Lehengas: Assessing Market Dynamics in Bangladeshi Bridal Wear",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/vmjvLR78/png-clipart-women-s-gold-and-orange-floral-sari-lehenga-gagra-choli-blouse-wedding-dress-others-oran.png"
+
+
+    }
+]

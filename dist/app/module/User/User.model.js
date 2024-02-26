@@ -43,10 +43,6 @@ const userSchema = new mongoose_1.Schema({
         enum: ['user', 'seller', 'admin'],
         required: true
     },
-    phone: {
-        type: String,
-        unique: false
-    },
     district: {
         type: String,
         required: false

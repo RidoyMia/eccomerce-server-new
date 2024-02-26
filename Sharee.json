@@ -1,0 +1,113 @@
+[
+    {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Jamdani Sharee",
+        "Title" : "Weaving Tradition into Web Data Insights",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/tJMG7JZ0/png-clipart-pochampally-saree-silk-sari-ikat-textile-saree-border-blue-india-thumbnail.png"
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Rang Bangladesh",
+        "Title" : " Coloring the Web Data Landscape with Elegance",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/Kv1ywPwm/png-clipart-sari-ikat-silk-sambalpuri-saree-clothing-silk-saree-blue-fashion-thumbnail.png"
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Deshi Dosh",
+        "Title" : "Unveiling Bangladeshi Saree Trends through",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/fLzGKmYn/png-clipart-sari-lehenga-style-saree-fathima-collection-pink-dress-dress-magenta-silk-thumbnail.png"
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Anjans",
+        "Title" : "Empowering Fashionistas with Web Data-driven Saree Choices",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/Pf3jS366/png-clipart-sari-mangalagiri-sarees-and-fabrics-uppada-gadwal-handloom-blue-textile-thumbnail.png"
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Sadakalo",
+        "Title" : " Exploring Bangladeshi Saree Heritage through",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/fbf4mBtf/png-clipart-sari-silk-kanchipuram-zari-pink-saree-model-purple-blue-thumbnail.png "
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Bibiana",
+        "Title" : "Bridging Tradition and Technology in Saree Fashion ",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/tTBLmJz1/png-clipart-smiling-woman-wearing-multicolored-sari-dress-standing-shoulder-sari-tartan-indian-saree.png"
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Kay Kraft",
+        "Title" : "Crafting Web Data Narratives in Bangladeshi Saree Fashion",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/3wT5kPRw/png-clipart-woman-in-green-and-black-dress-wedding-sari-wedding-saree-wedding-fashion-thumbnail.png"
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Aarong",
+        "Title" : "Redefining Bangladeshi Saree Trends through",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/3NWPMhLt/png-clipart-woman-in-red-orange-and-purple-saree-dress-smiling-silk-sari-textile-yellow-cotton-silk.png"
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Anjan’s",
+        "Title" : "Unraveling Saree Fashion Stories through",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/pL8MX2P7/png-clipart-woman-wearing-red-and-blue-saree-touching-her-cheek-costume-magenta-sari-wedding-saree-c.png"
+    }, {
+        "CategoryId" : 2,
+        "name" : "Sharee",
+        "oldPrice" : 4,
+        "discount" : 1,
+        "sellerid" : 4,
+        "details" :"",
+        "brand" : "Nipun",
+        "Title" : "Navigating Bangladeshi Saree Trends via",
+        "price" : 5,
+        "image" : "https://i.postimg.cc/dtgKY7cr/png-clipart-women-s-black-green-gold-and-white-saree-wedding-sari-wedding-saree-wedding-textile-thum.png"
+    }
+]
