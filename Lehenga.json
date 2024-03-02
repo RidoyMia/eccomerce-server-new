@@ -1,133 +1,1353 @@
 [
     {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Rang",
-        "Title" : "Exploring Traditional Bangladeshi Designs",
-        "price" : 5,
+        "title" : "Exploring Traditional Bangladeshi Designs",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/X70Qz0Rp/png-clipart-gagra-choli-lehenga-sari-clothing-bridal-lehenga-fashion-wedding-dress-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Deshi Dosh",
-        "Title" : "Deshi Dosh Lehengas: Analyzing Trends in Bangladeshi Ethnic Wear Market",
-        "price" : 5,
+        "title" : "Deshi Dosh Lehengas: Analyzing Trends in Bangladeshi Ethnic Wear Market",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/br1Lw6ty/png-clipart-bride-makeover-clothing-wedding-dress-hairstyle-bride-wedding-cosmetics-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Aarong",
-        "Title" : "Aarong Lehengas: Assessing Craftsmanship and Style in Bangladeshi Ethnic Fashion",
-        "price" : 5,
+        "title" : "Aarong Lehengas: Assessing Craftsmanship and Style in Bangladeshi Ethnic Fashion",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/HsH9t9MM/png-clipart-gagra-choli-lehenga-wedding-dress-suit-katrina-kaif-magenta-fashion-model-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Kay Kraft",
-        "Title" : "Kay Kraft Lehengas: Understanding Cultural Influences in Bangladeshi Bridal Fashion",
-        "price" : 5,
+        "title" : "Kay Kraft Lehengas: Understanding Cultural Influences in Bangladeshi Bridal Fashion",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/FHTpzk7L/png-clipart-gown-wedding-dress-sleeve-lehenga-dress-wedding-evening-gown-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Bibiana",
-        "Title" : "Bibiana Lehengas: Mapping Consumer Preferences in Bangladeshi Wedding Attire",
-        "price" : 5,
+        "title" : "Bibiana Lehengas: Mapping Consumer Preferences in Bangladeshi Wedding Attire",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/yYPXp3hb/png-clipart-kriti-kharbanda-choli-lehenga-india-bollywood-best-price-modern-wholesale-fashion-india.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Sadakalo",
-        "Title" : "Sadakalo Lehengas: Investigating Modern Interpretations of Bangladeshi Lehenga Designs",
-        "price" : 5,
+        "title" : "Sadakalo Lehengas: Investigating Modern Interpretations of Bangladeshi Lehenga Designs",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/rwVgqNFT/png-clipart-lehenga-wedding-dress-choli-clothing-design-bollywood-designer-suits-women-wedding-fashi.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Anjans",
-        "Title" : " Anjans Lehengas: A Realistic Analysis of Quality and Craftsmanship",
-        "price" : 5,
+        "title" : " Anjans Lehengas: A Realistic Analysis of Quality and Craftsmanship",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/W4tnkpkf/png-clipart-pink-m-fashion-design-silk-dress-design-fashion-magenta-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Mayasir",
-        "Title" : "Mayasir Lehengas: Navigating Price and Value in Bangladeshi Ethnic Fashion ",
-        "price" : 5,
+        "title" : "Mayasir Lehengas: Navigating Price and Value in Bangladeshi Ethnic Fashion ",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/B6H2TjQN/png-clipart-wedding-dress-pakistani-clothing-bride-lehenga-dress-wedding-fashion-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Banglar Mela",
-        "Title" : "Banglar Mela Lehengas: Exploring Authenticity in Bangladeshi Traditional Attire",
-        "price" : 5,
+        "title" : "Banglar Mela Lehengas: Exploring Authenticity in Bangladeshi Traditional Attire",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/cLL7p1X4/png-clipart-wedding-sari-lehenga-choli-shalwar-kameez-dress-purple-violet-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 4,
+        "CategoryId" : "65deb4219c421800ad5857a2",
         "name" : "Lehenga",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 3000,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Lehenga is a traditional outfit worn in Bangladesh and India, especially during weddings, festivals, and cultural events. It consists of a long skirt, blouse, and scarf. Lehengas are made from various fabrics like silk, satin, or chiffon and are heavily embroidered or embellished with intricate designs. They come in a wide range of colors and styles, from traditional to contemporary. Lehengas are often accessorized with traditional jewelry and footwear, completing the elegant look for special occasions.",
         "brand" : "Ratul",
-        "Title" : "Ratul Lehengas: Assessing Market Dynamics in Bangladeshi Bridal Wear",
-        "price" : 5,
+        "title" : "Ratul Lehengas: Assessing Market Dynamics in Bangladeshi Bridal Wear",
+        "price" : 1500,
         "image" : "https://i.postimg.cc/vmjvLR78/png-clipart-women-s-gold-and-orange-floral-sari-lehenga-gagra-choli-blouse-wedding-dress-others-oran.png"
 
 
-    }
+
+    },
+    {
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Sadakalo",
+        "title" : "Explore Trendsetting Bangladeshi Jackets | Sadakalo Jackets",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/d1hnCszV/png-clipart-black-leather-full-zip-jacket-leather-jacket-coat-slim-fit-pants-black-leather-jacket-zi.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Kay Kraft",
+        "title" : "Discover Exquisite Bangladeshi Jackets | Kay Kraft Collection",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/nzN2G8JY/png-clipart-black-leather-zip-up-jacket-leather-jacket-clothing-coat-leather-jacket-zipper-brown-thu.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Yellow",
+        "title" : "Elevate Your Style with Bangladeshi Jackets | Yellow Fashion",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/TP4JT8pM/png-clipart-blue-and-white-zip-up-jacket-hoodie-jacket-jacket-blue-fashion-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Aarong",
+        "title" : " Experience Authentic Bangladeshi Jackets | Aarong Fashion",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/PJZ466fG/png-clipart-flight-jacket-ma-1-bomber-jacket-clothing-canada-goose-jacket-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Ecstasy",
+        "title" : "Unveil Stylish Bangladeshi Jackets | Ecstasy Collection",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/bNxgkFFk/png-clipart-leather-jacket-denim-outerwear-viewways-men-slim-denim-jacket-winter-cowboy-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Rang",
+        "title" : "Embrace Tradition with Bangladeshi Jackets | Rang Apparel",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/YC8xyL7S/png-clipart-leather-jacket-flight-jacket-fashion-jacket-zipper-textile-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Desi Bangla",
+        "title" : "Step Into Fashion with Bangladeshi Jackets | Desi Bangla Styles",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/HLxtGWW9/png-clipart-men-s-black-and-gray-formal-coat-blazer-suit-jacket-fashion-coat-blazer-tshirt-cloth-thu.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Jatra",
+        "title" : " Find Your Perfect Bangladeshi Jacket | Jatra Fashion",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/3J59yH93/png-clipart-men-s-black-leather-coat-leather-jacket-leather-jacket-blazer-coat-blazer-leather-fashio.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Grameen UNIQLO",
+        "title" : "Explore Comfortable Bangladeshi Jackets | Grameen UNIQLO Collection",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/v863HmrP/png-clipart-nike-free-hoodie-windbreaker-jacket-jacket-white-jersey-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a7",
+        "name" : "Jacket",
+        "oldPrice" : 6000,
+           "quantity" : 20, 
+
+        "discount" : 40,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Le Reve:",
+        "title" : "Define Your Style with Bangladeshi Jackets | Le Reve Fashion Hub",
+        "price" : 3600,
+        "image" : "https://i.postimg.cc/K8mNNrdV/png-clipart-t-shirt-denim-jacket-clothing-wear-denim-jacket-standing-boy-tshirt-blue-thumbnail.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Cap World Bangladesh",
+        "title" : "Explore a Wide Range of Caps at Cap World Bangladesh",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/Xv3gsKmm/png-clipart-baseball-cap-baseball-cap-black-baseball-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Bangla Caps",
+        "title" : "Discover Stylish Headwear Options at Bangla Caps",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/mrwyJzGD/png-clipart-baseball-cap-blue-baseball-cap-blue-hat-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Cap Zone BD",
+        "title" : "Shop the Latest Trends in Caps at Cap Zone BD",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/7Y2MDQyj/png-clipart-black-and-white-adidas-cap-cap-hat-adidas-cap-hd-accessories-black-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Headgear Bangladesh ",
+        "title" : "Find Your Perfect Cap at Headgear Bangladesh",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/tTvtRKJG/png-clipart-blue-and-black-curve-cap-baseball-cap-hat-blue-baseball-cap-product-electric-blue-thumbn.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Topper Caps ",
+        "title" : "Elevate Your Style with Topper Caps Collection",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/dVR2Zk3B/png-clipart-blue-fitted-cap-baseball-cap-blue-baseball-cap-blue-microsoft-azure-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Cap City BD",
+        "title" : " Your Destination for Trendy Caps - Cap City BD",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/fWFjGQ1x/png-clipart-cap-beret-clothing-wool-military-cap-hat-leather-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Peak Caps Bangladesh",
+        "title" : " Explore Fashionable Caps at Peak Caps Bangladesh",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/SxbLK7SR/png-clipart-cricket-cap-baseball-cap-headgear-t-shirt-caps-hat-head-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Cap Craze",
+        "title" : "Unleash Your Style with Caps from Cap Craze",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/L5rtLjjy/png-clipart-gray-fitted-cap-hoodie-t-shirt-baseball-cap-hat-caps-white-caps-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Bangladesh Headwear Co.",
+        "title" : "Step Up Your Headwear Game with Bangladesh Headwear Co. Caps",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/904PDLwR/png-clipart-jeans-denim-slim-fit-pants-clothing-diesel-mens-jeans-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a6",
+        "name" : "Cap",
+        "oldPrice" : 400,
+
+    "quantity" : 20,
+        "discount" : 10,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+        "brand" : "Crown Caps",
+        "title" : " Discover Quality Caps at Crown Caps Bangladesh",
+        "price" : 360,
+        "image" : "https://i.postimg.cc/pTLJHW2B/png-clipart-square-academic-cap-graduation-ceremony-toga-graduation-cap-black-and-brown-graduation-h.png"
+    },
+    {
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "Denim Nation",
+        "title" : "Explore Stylish Denim Jeans at Denim Nation",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/c4ByDhbG/png-clipart-blue-denim-pants-jeans-t-shirt-clothing-blue-jeans-tshirt-blue-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "Jeans World Bangladesh",
+        "title" : "Discover the Latest Jeans Trends at Jeans World Bangladesh",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/13RxbFkn/png-clipart-blue-denim-pants-jeans-t-shirt-dress-women-s-jeans-love-tshirt-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "BlueX Jeans",
+        "title" : "Elevate Your Style with BlueX Jeans Collection",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/VL12bMLG/png-clipart-dayz-cargo-pants-jeans-military-uniform-pant-battle-dress-uniform-shorts-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "Denim Daze",
+        "title" : "Shop Premium Denim Jeans at Denim Daze",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/SRb3dYLK/png-clipart-jeans-denim-slim-fit-pants-bell-bottoms-jeans-blue-fashion-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "Jeans Junction BD",
+        "title" : "Find Your Perfect Fit at Jeans Junction BD",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/SxZ04s4Z/png-clipart-jeans-denim-slim-fit-pants-clothing-diesel-mens-jeans-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "True Blue Denim",
+        "title" : "Experience Comfort and Durability with True Blue Denim Jeans",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/PJbcRfKQ/png-clipart-jeans-denim-zoom-video-communications-pants-price-jeans-blue-electric-blue-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "Denim Delight",
+        "title" : "Unleash Your Fashion with Denim Delight Jeans",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/xjLWCgYN/png-clipart-jeans-slim-fit-pants-fashion-denim-jeans-fashion-black-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "Jeans Empire",
+        "title" : "Embrace the Trend with Jeans Empire Collection",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/FK1MH4sh/png-clipart-slim-fit-pants-jeans-carhartt-wrangler-jeans-zipper-blue-thumbnail.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a5",
+        "name" : "Jens pant",
+        "oldPrice" : 1500,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Denim jeans, a quintessential wardrobe staple, hold a significant presence in the fashion landscape of Bangladesh. Bangladeshi jeans pants exemplify a fusion of quality craftsmanship, comfort, and contemporary style, catering to diverse tastes and preferences.Manufactured by a plethora of local brands, Bangladeshi jeans pants offer an extensive array of designs, washes, and fits to suit various body types and fashion sensibilities. From classic straight-leg cuts to trendy skinny jeans, and from rugged distressed finishes to sleek dark washes, there is a plethora of options available for fashion enthusiasts.One notable aspect of Bangladeshi jeans pants is their focus on affordability without compromising on quality. By leveraging the country's robust textile industry and skilled workforce, Bangladeshi brands can deliver high-quality denim products at competitive prices, making them accessible to a wide range of consumers",
+        "brand" : "Blue Threads Bangladesh ",
+        "title" : "Step into Style with Blue Threads Denim Jeans",
+        "price" : 1200,
+        "image" : "https://i.postimg.cc/Pxw01Qwc/png-clipart-t-shirt-jeans-slim-fit-pants-clothing-cargo-pants-t-shirt-motorcycle-trousers-thumbnail.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Jamdani Sharee",
+        "title" : "Weaving Tradition into Web Data Insights",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/tJMG7JZ0/png-clipart-pochampally-saree-silk-sari-ikat-textile-saree-border-blue-india-thumbnail.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Rang Bangladesh",
+        "title" : " Coloring the Web Data Landscape with Elegance",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/Kv1ywPwm/png-clipart-sari-ikat-silk-sambalpuri-saree-clothing-silk-saree-blue-fashion-thumbnail.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Deshi Dosh",
+        "title" : "Unveiling Bangladeshi Saree Trends through",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/fLzGKmYn/png-clipart-sari-lehenga-style-saree-fathima-collection-pink-dress-dress-magenta-silk-thumbnail.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Anjans",
+        "title" : "Empowering Fashionistas with Web Data-driven Saree Choices",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/Pf3jS366/png-clipart-sari-mangalagiri-sarees-and-fabrics-uppada-gadwal-handloom-blue-textile-thumbnail.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Sadakalo",
+        "title" : " Exploring Bangladeshi Saree Heritage through",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/fbf4mBtf/png-clipart-sari-silk-kanchipuram-zari-pink-saree-model-purple-blue-thumbnail.png "
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Bibiana",
+        "title" : "Bridging Tradition and Technology in Saree Fashion ",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/tTBLmJz1/png-clipart-smiling-woman-wearing-multicolored-sari-dress-standing-shoulder-sari-tartan-indian-saree.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Kay Kraft",
+        "title" : "Crafting Web Data Narratives in Bangladeshi Saree Fashion",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/3wT5kPRw/png-clipart-woman-in-green-and-black-dress-wedding-sari-wedding-saree-wedding-fashion-thumbnail.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Aarong",
+        "title" : "Redefining Bangladeshi Saree Trends through",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/3NWPMhLt/png-clipart-woman-in-red-orange-and-purple-saree-dress-smiling-silk-sari-textile-yellow-cotton-silk.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Anjan’s",
+        "title" : "Unraveling Saree Fashion Stories through",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/pL8MX2P7/png-clipart-woman-wearing-red-and-blue-saree-touching-her-cheek-costume-magenta-sari-wedding-saree-c.png"
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a0",
+        "name" : "Sharee",
+        "oldPrice" : 1200,
+           "quantity" : 20, 
+
+        "discount" : 20,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"The Bangladeshi saree, known locally as sharee is a traditional attire worn by women in Bangladesh. It is a long piece of cloth typically ranging from five to nine yards in length. Made from various fabrics such as cotton, silk, muslin, or synthetics, sarees in Bangladesh come in a plethora of designs, colors, and embellishments. Traditional sarees like Jamdani, Tangail, and Dhakai Jamdani showcase intricate handwoven patterns, while others may feature embroidery, sequins, or printed motifs",
+        "brand" : "Nipun",
+        "title" : "Navigating Bangladeshi Saree Trends via",
+        "price" : 960,
+        "image" : "https://i.postimg.cc/dtgKY7cr/png-clipart-women-s-black-green-gold-and-white-saree-wedding-sari-wedding-saree-wedding-textile-thum.png"
+    },{
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Yellow",
+        "title" : " A Data-Driven Exploration of Bangladeshi Casual Wear",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/Y2DsnVpF/png-clipart-amazon-com-polo-shirt-t-shirt-clothing-ralph-lauren-corporation-polo-shirt-active-shirt.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Kay Kraft",
+        "title" : " Analyzing Traditional Craftsmanship in Bangladeshi Shirt Fashion",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/V6LK49p4/png-clipart-blue-dress-shirt-t-shirt-dress-shirt-dress-shirt-tshirt-blue-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Anjan's",
+        "title" : " Anjan's Shirts: Unveiling Trends in Bangladeshi Men's Fashion",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/RhWXxSMH/png-clipart-dress-shirt-t-shirt-graphy-dress-shirt-tshirt-blue-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Sadakalo",
+        "title" : "Sadakalo Shirts: Investigating Modern Bangladeshi Shirt Designs",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/MGYsy3Pv/png-clipart-gray-crew-neck-t-shirt-t-shirt-polo-shirt-dress-shirt-gray-t-shirt-tshirt-fashion-thumbn.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Grameen UNIQLO",
+        "title" : "Grameen UNIQLO: A Data Analysis of Affordable and Stylish Bangladeshi Shirts",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/GhBSZQ25/png-clipart-long-sleeved-t-shirt-hoodie-long-sleeved-t-shirt-top-t-shirt-tshirt-fashion-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Arong",
+        "title" : "Arong Shirts: Navigating Cultural Influences in Bangladeshi Shirt Fashion",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/Z5psq56P/png-clipart-orange-crew-neck-shirt-t-shirt-hoodie-sleeve-clothing-t-shirt-tshirt-orange-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Kay Kraft",
+        "title" : "A Realistic Assessment of Craftsmanship and Quality",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/43GLHR1D/png-clipart-printed-t-shirt-polo-shirt-clothing-t-shirt-tshirt-fashion-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Ecstasy",
+        "title" : "Exploring Contemporary Trends in Bangladeshi Men's Fashion",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/sxbKVkX0/png-clipart-t-shirt-polo-shirt-clothing-sleeve-black-t-shirt-black-crew-neck-t-shirt-tshirt-fashion.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Richman",
+        "title" : "Analyzing Urban Style in Bangladeshi Shirt Brands",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/7YpQD2JY/png-clipart-t-shirt-sleeve-clothing-polo-shirt-plain-t-shirts-tshirt-angle-thumbnail.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a1",
+        "name" : "Shirt",
+        "oldPrice" : 900,
+
+    "quantity" : 20,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
+        "brand" : "Yellow",
+        "title" : " A Data-Driven Exploration of Bangladeshi Casual Wear",
+        "price" : 630,
+        "image" : "https://i.postimg.cc/zBt0Qb1N/png-clipart-white-polo-shirt-illustration-polo-shirt-t-shirt-white-clothing-top-polo-shirt-tshirt-wh.png"
+
+
+    }, {
+        "CategoryId" : "65deb4219c421800ad5857a3",
+        "name" : "Shoe",
+        "oldPrice" : 2200,
+           "quantity" : 20, 
+
+        "discount" : 50,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+        "brand" : "Apex",
+        "title" : "Apex Shoes: Analyzing Footwear Trends in the Bangladeshi Market",
+        "price" : 1100,
+        "image" : "https://i.postimg.cc/L4V1mKqq/png-clipart-adidas-shoe-sneakers-women-shoes-purple-white-thumbnail.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Bata",
+    "title" : "Bata Bangladesh: A Data-Driven Look into Bangladeshi Footwear Preferences",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/jddJ5gNM/png-clipart-blue-shoe-sneakers-leather-navy-blue-baby-shoes-blue-white-thumbnail.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Titas",
+    "title" : "Titas Shoes: Exploring Local Craftsmanship in Bangladeshi Footwear Industry",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/5y9jXyHX/png-clipart-dress-shoe-sneakers-nike-bullock-carved-leather-shoes-men-s-shoes-retro-leather-thumbnai.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Pebble",
+    "title" : "Pebble Shoes: Navigating Consumer Choices in Bangladeshi Footwear Market",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/QM5FPRGd/png-clipart-oxford-shoe-footwear-brogue-shoe-shoemaking-men-shoes-leather-fashion-thumbnail.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Fortuna",
+    "title" : "Fortuna Shoes: Assessing Quality and Durability in Bangladeshi Footwear Brands",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/W3whpg4R/png-clipart-pair-of-black-leather-dress-shoes-art-dress-shoe-black-men-shoes-leather-fashion-thumbna.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Pavers England",
+    "title" : "Pavers England Bangladesh: Analyzing International Influence on Local Shoe Trends",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/ydHDzvsX/png-clipart-pair-of-white-and-red-running-shoes-illustration-shoe-running-sneakers-clothing-nike-run.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti  for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Lucy & Luke",
+    "title" : "Lucy & Luke Shoes: Investigating Children's Footwear Trends in Bangladesh",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/6p82V8MR/png-clipart-shoe-polish-leather-men-s-shoes-brown-photography-thumbnail.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Woodland",
+    "title" : "Woodland Shoes: Understanding Outdoor Footwear Preferences in Bangladesh",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/wjntw9rr/png-clipart-shoe-shoes-brown-leather-thumbnail.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Cats Eye",
+    "title" : "Cats Eye Shoes: Mapping Fashion Trends in Bangladeshi Footwear Industry",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/sxnx7zSw/png-clipart-sneakers-basketball-shoe-sportswear-nike-shoe-outdoor-shoe-running-thumbnail.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a3",
+    "name" : "Shoe",
+    "oldPrice" : 2200,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"In Bangladesh, shoes are essential for protecting and providing comfort to the feet. They come in various styles to suit different occasions, including formal leather shoes for men and embellished heels for women, as well as casual options like sneakers, sandals, and flip-flops. Traditional footwear such as khussa or juti for men and intricately designed sandals for women are also popular. Materials range from leather and synthetic materials to canvas and rubber. Bangladesh has a growing footwear industry with both local and international brands available",
+    "brand" : "Apex",
+    "title" : "Apex Footwear Ltd.: A Realistic Analysis of Market Position and Competitiveness",
+    "price" : 1100,
+    "image" : "https://i.postimg.cc/RVsJn7L4/png-clipart-sneakers-graphy-shoe-big-footwear-sport-shoes-purple-violet-thumbnail.png"
+}, {
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Aarong",
+    "title" : "Elevate Your Style with Bangladeshi Suits | Aarong Fashion",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/yNZk32Lz/png-clipart-blazer-pant-suits-pants-formal-wear-suit-brown-fashion-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Kay Kraft",
+    "title" : "Discover Exquisite Bangladeshi Suits | Kay Kraft Collection",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/Ghmtx4XK/png-clipart-blazer-tuxedo-pant-suits-pants-female-suit-woman-business-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Yellow",
+    "title" : "Explore Trendsetting Bangladeshi Suits | Yellow Fashion",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/XqVJhq4V/png-clipart-men-s-black-suit-suit-t-shirt-suit-people-fashion-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Rang",
+    "title" : " Define Your Style with Bangladeshi Suits | Rang Apparel",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/YC4STJKm/png-clipart-businessperson-businessman-men-s-black-formal-suit-people-city-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Ecstasy",
+    "title" : "Step Into Fashion with Bangladeshi Suits | Ecstasy Collection",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/fR6bsBDq/png-clipart-pant-suits-tuxedo-male-suit-blue-fashion-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Sadakalo",
+    "title" : "Embrace Tradition with Bangladeshi Suits | Sadakalo Suit Collection",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/5NK07fGV/png-clipart-pant-suits-clothing-jakkupuku-tailor-suit-blue-fashion-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Le Reve",
+    "title" : "Explore Elegant Bangladeshi Suits | Le Reve Fashion Hub",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/Y9Bj68PL/png-clipart-suit-graphy-tuxedo-suit-fashion-recruiter-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Grameen UNIQLO:",
+    "title" : "Experience Authentic Bangladeshi Suits | Grameen UNIQLO Collection",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/7PVbz3nb/png-clipart-suit-pants-blazer-navy-blue-groom-suit-blue-navy-blue-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Jatra",
+    "title" : "Unveil Stylish Bangladeshi Suits | Jatra Fashion",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/nr0ztxhq/png-clipart-t-shirt-suit-graphy-clothing-men-s-suits-person-wearing-2-piece-dress-suit-tshirt-white.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a8",
+    "name" : "Suite",
+    "oldPrice" : 4000,
+       "quantity" : 20, 
+
+    "discount" : 50,
+    "sellerid" : 4,
+    "details" :"Bangladesh has emerged as a hub for diverse and trendy headwear, with numerous local brands offering a wide array of caps that cater to various styles and preferences. Bangladeshi cap brands have gained recognition for their fusion of quality craftsmanship, innovative designs, and affordability.These brands produce caps in a multitude of styles, including snapbacks, dad caps, trucker caps, beanies, and more, ensuring there's something for everyone. From bold graphics and vibrant colors to subtle embroidery and minimalist designs, Bangladeshi cap brands embrace versatility to appeal to a broad spectrum of consumers.One notable aspect of Bangladeshi cap brands is their emphasis on using high-quality materials and employing skilled artisans to create durable and stylish headwear. By leveraging the country's robust textile industry, these brands can deliver caps that not only look great but also withstand the test of time.Moreover, Bangladeshi cap brands often prioritize affordability without compromising on quality, making fashion accessible to a wide range of individuals. Whether it's for casual streetwear, sports activities, or fashion statements, Bangladeshi caps offer both style and functionality.In essence, Bangladeshi cap brands epitomize creativity, craftsmanship, and affordability, reflecting the vibrant spirit of the country's fashion industry and its contribution to the global headwear market.",
+    "brand" : "Desi Bangla",
+    "title" : "Find Your Perfect Bangladeshi Suit | Desi Bangla Styles",
+    "price" : 2000,
+    "image" : "https://i.postimg.cc/9MP0JZ38/png-clipart-tuxedo-suit-necktie-clothing-wedding-men-in-suit-navy-blue-business-thumbnail.png"
+},  {
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Ray-Ban",
+    "title" : "Explore Trendy Eyewear Collections at Apan Sunglasses",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/Sxcqpqs3/png-clipart-aviator-sunglasses-eyewear-aviator-sunglass-fashion-sunglass-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Oakley",
+    "title" : "Discover Fashionable Sunglasses at Glasses House Bangladesh",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/9fV2mSwM/png-clipart-aviator-sunglasses-fashion-eyewear-sunglasses-fashion-glasses-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Gucci",
+    "title" : "Shop Quality Sunglasses and Eyewear at Specs & Shades",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/435gm5p1/png-clipart-black-sunglasses-sunglasses-sunglass-glass-lens-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Prada",
+    "title" : "Your Destination for Stylish Sunglasses - Sight Savers Opticals",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/Y04KDBZX/png-clipart-black-wayfarer-style-sunglasses-illustration-sunglasses-ray-ban-wayfarer-lens-sunglasses.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Versace",
+    "title" : "Experience Clarity and Style with Vision World Sunglasses",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/3RfQZxS4/png-clipart-gold-framed-hippie-sunglasses-aviator-sunglasses-ray-ban-sunglasses-blue-desktop-wallpap.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Persol",
+    "title" : "Browse the Latest Eyewear Trends at Beximco Eyewear",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/x8WrWFS9/png-clipart-gold-framed-ray-band-aviator-sunglasses-ray-ban-wayfarer-aviator-sunglasses-mirrored-sun.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Dior",
+    "title" : "Elevate Your Look with Zaman Opticals Sunglasses Collection",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/76Zy72Vr/png-clipart-mirrored-sunglasses-eyewear-sunglasses-fashion-glasses-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Tom Ford",
+    "title" : " Find Your Perfect Pair of Sunglasses at Sunglass BD",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/dtyc8v83/png-clipart-sunglasses-goggles-color-sunglasses-glasses-eyewear-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Maui Jim",
+    "title" : " Unleash Your Style with Chic Sunglasses from Style Optics",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/MZ48MXfg/png-clipart-sunglasses-sunglasses-thumbnail.png"
+},{
+    "CategoryId" : "65deb4219c421800ad5857a4",
+    "name" : "Sunglass",
+    "oldPrice" : 600,
+
+    "quantity" : 20,
+    "discount" : 15,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sunglasses are more than just fashion accessories; they serve a crucial purpose in protecting our eyes from harmful UV radiation and reducing glare. These stylish eyewear pieces have evolved over time, blending fashion with functionality to offer a wide range of options to suit various tastes and needs.Functionally, sunglasses shield our eyes from the sun's ultraviolet (UV) rays, which can lead to long-term eye damage, including cataracts, macular degeneration, and even skin cancer around the eyelids. They also reduce glare, making outdoor activities such as driving, cycling, or skiing safer and more comfortable. Polarized lenses, in particular, are adept at cutting through glare from reflective surfaces like water, snow, or pavements.",
+    "brand" : "Carrera",
+    "title" : "Discover Crystal Clear Vision with Crystal Optics Sunglasses",
+    "price" : 510,
+    "image" : "https://i.postimg.cc/CxpT7tNN/png-clipart-t-shirt-aviator-sunglasses-sticker-sunglasses-lens-rectangle-thumbnail.png"
+},  {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Addidas",
+    "title" : " Sporting Trawser 10 Unleashed",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/RZrrV8Jt/61lp-E3s-Ubz-S.jpg"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Nikee",
+    "title" : "Dominating Sports Data with Sporting Trawser 10",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/g2RWVdb4/6ec23672-795b-4e32-996d-082ac103843b1622109086734-Jeans-Roadster-Women-Tops-Harvard-Women-Tshirts-HRXby-Hrith.jpg"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Puma",
+    "title" : " Unveiling Sporting Trawser 10",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/257Ntw6Z/99aaa-512.jpg"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Addidas",
+    "title" : "Harnessing Sporting Trawser 10",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/43Zrp95N/Cricket-Pants-Front-1000x1000.png"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Panda",
+    "title" : " Mastering Data with Trawser ",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/L57cPQyr/CRK-PT14-1.jpg"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Sports",
+    "title" : "Exploring Sporting Trawser",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/zXHZN5v5/CRK-PT20-1.jpg"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Addidas",
+    "title" : "Conquering Web Data for Sports Analytics",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/c1byP6sX/P1110357.jpg"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Puma",
+    "title" : " Elevating Insights with Sporting Trawser",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/Fz7t7Xxy/Pro-Sublimated-Pants-300x300.png"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Nikee",
+    "title" : "Advancing Sports Analysis with Trawser ",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/SsZFSxcQ/thumb-360-0-0-0-auto.jpg"
+
+
+}, {
+    "CategoryId" : "65deb4219c421800ad58579f",
+    "name" : "Trawser",
+    "oldPrice" : 800,
+
+    "quantity" : 20,
+    "discount" : 10,
+    "sellerid" : "65defef83089bc3768e4bed8",
+    "details" :"Sport trousers, also known as athletic pants or workout pants, are designed for physical activity. They are typically made from lightweight, breathable fabrics like polyester or spandex, offering comfort and flexibility during exercise. Sport trousers often feature an elastic waistband with drawstrings for a secure fit, along with pockets for convenience. They come in various lengths, from full-length to shorts, and may include features like ventilation panels or reflective elements for outdoor activities",
+    "brand" : "Skitee",
+    "title" : "Unlocking Sporting Trawser 10's Potential",
+    "price" : 720,
+    "image" : "https://i.postimg.cc/K8t6KNtH/wccc-men-s-cricket-trousers-navy-front.jpg"
+
+
+}
 ]

@@ -1,0 +1,58 @@
+import { ICategory } from "./Category.interface";
+import { CategoryModel } from "./Category.model";
+const category = [
+    {
+        "name" : "Trawser",
+        "img" : "https://i.postimg.cc/43Zrp95N/Cricket-Pants-Front-1000x1000.png",
+        "id" : 1
+    }, {
+        "name" : "Sharee",
+        "img" : "https://i.postimg.cc/tJMG7JZ0/png-clipart-pochampally-saree-silk-sari-ikat-textile-saree-border-blue-india-thumbnail.png",
+        "id" : 2
+    }, {
+        "name" : "Shirt",
+        "img" : "https://i.postimg.cc/V6LK49p4/png-clipart-blue-dress-shirt-t-shirt-dress-shirt-dress-shirt-tshirt-blue-thumbnail.png",
+        "id" : 3
+    }, {
+        "name" : "Lehanga",
+        "img" : "https://i.postimg.cc/br1Lw6ty/png-clipart-bride-makeover-clothing-wedding-dress-hairstyle-bride-wedding-cosmetics-thumbnail.png",
+        "id" : 4
+    }, {
+        "name" : "Shoe",
+        "img" : "https://i.postimg.cc/5y9jXyHX/png-clipart-dress-shoe-sneakers-nike-bullock-carved-leather-shoes-men-s-shoes-retro-leather-thumbnai.png",
+        "id" : 5
+    }, {
+        "name" : "Sunglass",
+        "img" : "https://i.postimg.cc/Sxcqpqs3/png-clipart-aviator-sunglasses-eyewear-aviator-sunglass-fashion-sunglass-thumbnail.png",
+        "id" : 6
+    }, {
+        "name" : "Pant",
+        "img" : "https://i.postimg.cc/13RxbFkn/png-clipart-blue-denim-pants-jeans-t-shirt-dress-women-s-jeans-love-tshirt-thumbnail.png",
+        "id" : 7
+    }, {
+        "name" : "Cap",
+        "img" : "https://i.postimg.cc/Xv3gsKmm/png-clipart-baseball-cap-baseball-cap-black-baseball-thumbnail.png",
+        "id" : 8
+    }, {
+        "name" : "Jacket",
+        "img" : "https://i.postimg.cc/nzN2G8JY/png-clipart-black-leather-zip-up-jacket-leather-jacket-clothing-coat-leather-jacket-zipper-brown-thu.png",
+        "id" : 9
+    }, {
+        "name" : "Suite",
+        "img" : "https://i.postimg.cc/yNZk32Lz/png-clipart-blazer-pant-suits-pants-formal-wear-suit-brown-fashion-thumbnail.png",
+        "id" : 10
+    }
+]
+const CreateCategoryService = async( ) : Promise<ICategory | any> =>{
+    const result = await CategoryModel.create(category);
+    return result;
+}
+
+const getAllCategoryService =async() : Promise<ICategory[] | any> =>{
+    const result = await CategoryModel.find();
+    return result;
+} ;
+
+export const CategoryServices = {
+    CreateCategoryService,getAllCategoryService
+}

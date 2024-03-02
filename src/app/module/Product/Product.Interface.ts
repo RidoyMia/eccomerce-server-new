@@ -7,8 +7,10 @@ export interface Iproduct {
     discount : number,
     details : string,
     title : string,
+    quantity : number,
     image : string,
-    author : Types.ObjectId,
-    price : number
+    sellerid : Types.ObjectId,
+    price : number,
+    CategoryId : Types.ObjectId
 
 }

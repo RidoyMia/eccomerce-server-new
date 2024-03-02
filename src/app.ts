@@ -3,6 +3,8 @@ import cors from "cors"
 import { StatusCodes } from "http-status-codes"
 import Userrouter from "./app/module/User/User.route"
 import { GlobalError } from "./globalError/GlobalError"
+import categoryRouter from "./app/module/Category/Category.route"
+import productRouter from "./app/module/Product/Product.route"
 const app:Application = express()
 
 app.use(cors())
@@ -10,6 +12,9 @@ app.use(express.json())
 app.use(express.urlencoded({extended : true}))
 
 app.use("/api/v1/user", Userrouter)
+app.use("/api/v1/user", Userrouter)
+app.use("/api/v1/category", categoryRouter)
+app.use("/api/v1/product", productRouter)
 
 app.get('/',(req:Request,res:Response)=>{
  res.status(StatusCodes.OK).send({

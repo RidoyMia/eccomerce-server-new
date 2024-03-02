@@ -1,131 +1,131 @@
 [
     {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Yellow",
-        "Title" : " A Data-Driven Exploration of Bangladeshi Casual Wear",
-        "price" : 5,
+        "title" : " A Data-Driven Exploration of Bangladeshi Casual Wear",
+        "price" : 630,
         "image" : "https://i.postimg.cc/Y2DsnVpF/png-clipart-amazon-com-polo-shirt-t-shirt-clothing-ralph-lauren-corporation-polo-shirt-active-shirt.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Kay Kraft",
-        "Title" : " Analyzing Traditional Craftsmanship in Bangladeshi Shirt Fashion",
-        "price" : 5,
+        "title" : " Analyzing Traditional Craftsmanship in Bangladeshi Shirt Fashion",
+        "price" : 630,
         "image" : "https://i.postimg.cc/V6LK49p4/png-clipart-blue-dress-shirt-t-shirt-dress-shirt-dress-shirt-tshirt-blue-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Anjan's",
-        "Title" : " Anjan's Shirts: Unveiling Trends in Bangladeshi Men's Fashion",
-        "price" : 5,
+        "title" : " Anjan's Shirts: Unveiling Trends in Bangladeshi Men's Fashion",
+        "price" : 630,
         "image" : "https://i.postimg.cc/RhWXxSMH/png-clipart-dress-shirt-t-shirt-graphy-dress-shirt-tshirt-blue-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Sadakalo",
-        "Title" : "Sadakalo Shirts: Investigating Modern Bangladeshi Shirt Designs",
-        "price" : 5,
+        "title" : "Sadakalo Shirts: Investigating Modern Bangladeshi Shirt Designs",
+        "price" : 630,
         "image" : "https://i.postimg.cc/MGYsy3Pv/png-clipart-gray-crew-neck-t-shirt-t-shirt-polo-shirt-dress-shirt-gray-t-shirt-tshirt-fashion-thumbn.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Grameen UNIQLO",
-        "Title" : "Grameen UNIQLO: A Data Analysis of Affordable and Stylish Bangladeshi Shirts",
-        "price" : 5,
+        "title" : "Grameen UNIQLO: A Data Analysis of Affordable and Stylish Bangladeshi Shirts",
+        "price" : 630,
         "image" : "https://i.postimg.cc/GhBSZQ25/png-clipart-long-sleeved-t-shirt-hoodie-long-sleeved-t-shirt-top-t-shirt-tshirt-fashion-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Arong",
-        "Title" : "Arong Shirts: Navigating Cultural Influences in Bangladeshi Shirt Fashion",
-        "price" : 5,
+        "title" : "Arong Shirts: Navigating Cultural Influences in Bangladeshi Shirt Fashion",
+        "price" : 630,
         "image" : "https://i.postimg.cc/Z5psq56P/png-clipart-orange-crew-neck-shirt-t-shirt-hoodie-sleeve-clothing-t-shirt-tshirt-orange-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Kay Kraft",
-        "Title" : "A Realistic Assessment of Craftsmanship and Quality",
-        "price" : 5,
+        "title" : "A Realistic Assessment of Craftsmanship and Quality",
+        "price" : 630,
         "image" : "https://i.postimg.cc/43GLHR1D/png-clipart-printed-t-shirt-polo-shirt-clothing-t-shirt-tshirt-fashion-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Ecstasy",
-        "Title" : "Exploring Contemporary Trends in Bangladeshi Men's Fashion",
-        "price" : 5,
+        "title" : "Exploring Contemporary Trends in Bangladeshi Men's Fashion",
+        "price" : 630,
         "image" : "https://i.postimg.cc/sxbKVkX0/png-clipart-t-shirt-polo-shirt-clothing-sleeve-black-t-shirt-black-crew-neck-t-shirt-tshirt-fashion.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Richman",
-        "Title" : "Analyzing Urban Style in Bangladeshi Shirt Brands",
-        "price" : 5,
+        "title" : "Analyzing Urban Style in Bangladeshi Shirt Brands",
+        "price" : 630,
         "image" : "https://i.postimg.cc/7YpQD2JY/png-clipart-t-shirt-sleeve-clothing-polo-shirt-plain-t-shirts-tshirt-angle-thumbnail.png"
 
 
     }, {
-        "CategoryId" : 3,
+        "CategoryId" : "65deb4219c421800ad5857a1",
         "name" : "Shirt",
-        "oldPrice" : 4,
-        "discount" : 1,
-        "sellerid" : 4,
-        "details" :"",
+        "oldPrice" : 900,
+        "discount" : 30,
+        "sellerid" : "65defef83089bc3768e4bed8",
+        "details" :"Shirts are an essential part of clothing in Bangladesh, serving both formal and casual purposes. Here's an overview:In Bangladesh, shirts are worn by both men and women and are available in various styles, fabrics, and designs. For men, formal shirts are typically made of cotton or blended fabrics and come in solid colors or subtle patterns like stripes or checks. These shirts are commonly worn with trousers for office wear or formal occasions. Casual shirts for men may include cotton or linen button-down shirts, polo shirts, or T-shirts, which are often worn with jeans or shorts for a more relaxed look.",
         "brand" : "Yellow",
-        "Title" : " A Data-Driven Exploration of Bangladeshi Casual Wear",
-        "price" : 5,
+        "title" : " A Data-Driven Exploration of Bangladeshi Casual Wear",
+        "price" : 630,
         "image" : "https://i.postimg.cc/zBt0Qb1N/png-clipart-white-polo-shirt-illustration-polo-shirt-t-shirt-white-clothing-top-polo-shirt-tshirt-wh.png"
 
 
