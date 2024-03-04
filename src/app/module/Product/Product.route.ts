@@ -7,7 +7,8 @@ productRouter.post('/create',productController.createProductController)
 productRouter.get('/single/:id',productController.getSingleProductController)
 productRouter.get('/features',productController.getFeaturesProductController)
 productRouter.get('/shop',productController.getShorterProductController)
-productRouter.post('/category/:id',productController.getSingleCategoryProductsController)
+productRouter.get('/category/:id',productController.getSingleCategoryProductsController)
+productRouter.get('/search/:search',productController.getProductBySearchingController)
 
 
 export default productRouter;

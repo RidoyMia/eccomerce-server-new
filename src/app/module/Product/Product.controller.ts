@@ -69,7 +69,21 @@ const getShorterProductController =async(req:Request,res:Response,next:NextFunct
     }
 }
 
+const getProductBySearchingController = async(req:Request,res:Response,next:NextFunction) : Promise<Iproduct | any> =>{
+    try {
+        const search:any = req.params.search;
+        console.log(search,'searching')
+        const result = await productServices.searchingProductServices(search);
+        res.status(StatusCodes.OK).send({
+            data : true,
+            result
+        })
+    } catch (error) {
+        next(error)
+    }
+}
+
 
 export const productController = {
-    createProductController,getSingleProductController,getSingleCategoryProductsController,getFeaturesProductController,getShorterProductController
+    createProductController,getSingleProductController,getSingleCategoryProductsController,getFeaturesProductController,getShorterProductController,getProductBySearchingController
 }
